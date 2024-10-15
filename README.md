@@ -29,6 +29,7 @@ The dataset consists of images of various celebrities. The faces in the images a
 ```bash
 
 .
+├── test.py      
 ├── app.py                     # Streamlit application for celebrity look-alike detection
 ├── extracted_features.pkl      # Precomputed FaceNet embeddings for celebrity images
 ├── filenames.pkl               # List of file paths to the celebrity images
