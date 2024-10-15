@@ -83,11 +83,11 @@ pip install streamlit tensorflow keras-facenet mtcnn opencv-python-headless scik
 
 ### App Interface
 
-![App Interface](https://your-screenshot-url)
+![App Interface](App Interface.png)
 
 ### Celebrity Look-Alike Result
 
-![Look-Alike Result](https://your-screenshot-url)
+![Look-Alike Result](Working.png)
 
 ## Acknowledgements
 
