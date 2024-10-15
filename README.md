@@ -83,7 +83,7 @@ pip install streamlit tensorflow keras-facenet mtcnn opencv-python-headless scik
 
 ### App Interface
 
-![App Interface](App Interface.png)
+![App Interface](App_Interface.png)
 
 ### Celebrity Look-Alike Result
 
@@ -95,10 +95,3 @@ pip install streamlit tensorflow keras-facenet mtcnn opencv-python-headless scik
 - [FaceNet](https://keras.io/examples/vision/facenet/) for face embedding.
 - Streamlit for the easy-to-build web application interface.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace any necessary URLs and placeholders like `https://your-screenshot-url` with actual data or links as per your setup. This `README.md` provides clear instructions on setting up and running the project on GitHub.
