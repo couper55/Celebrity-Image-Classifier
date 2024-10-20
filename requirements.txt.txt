@@ -1,0 +1,13 @@
+numpy
+pandas
+PIL
+streamlit
+keras_facenet
+pickle
+opencv-python
+mtcnn
+os
+tqdm
+scikit-learn
+tensorflow
+matplotlib
